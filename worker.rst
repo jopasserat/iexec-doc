@@ -136,7 +136,7 @@ In a terminal, run:
            iexechub/iexec-worker:3.X.X
 
 
-Please get the lastest version available (3.X.X) `here <https://hub.docker.com/r/iexechub/iexec-core/tags>`_. Note that it must match the version of the scheduler.
+Please get the lastest version available (3.X.X) `here <https://hub.docker.com/r/iexechub/iexec-worker/tags>`_. Note that it must match the version of the scheduler.
 
 Please note that all the values shown here are just given as an example, it should be adapted to the worker workerpool you are trying to join and to the machine on which the worker will run.
 
